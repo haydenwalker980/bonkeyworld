@@ -3,7 +3,7 @@
 		"public": {
 			"char_limit": 2500,
 			"name_limit": 25,
-			"godword": 'dumb',
+			"godword": "dumb",
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
@@ -26,7 +26,7 @@
 				"pope": 3
 			},
 			"room_max": 8,
-			"owner": 'Winfinity',
+			"owner": "Winfinity",
 			"pitch": {
 				"max": 125,
 				"min": 15,
@@ -42,7 +42,7 @@
 		"private": {
 			"char_limit": 5000,
 			"name_limit": 25,
-			"godword": 'dumb',
+			"godword": "dumb",
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
@@ -65,7 +65,7 @@
 				"pope": 3
 			},
 			"room_max": 30,
-			"owner": 'Winfinity',
+			"owner": "Winfinity",
 			"pitch": {
 				"max": 125,
 				"min": 15,
@@ -79,7 +79,7 @@
 			"defaultName": "Anonymous"
 		}
 	},
-	"consoleOutput": false,
+	"consoleOutput": true,
 	"log": {
 		"info": {
 			"level": "info",
