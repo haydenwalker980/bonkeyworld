@@ -387,10 +387,6 @@ class User {
     }
 
     talk(data) {
-        if (typeof data != 'object') { // Crash fix (issue #9)
-            data = {
-                text: "HEY EVERYONE LOOK AT ME I'M TRYING TO SCREW WITH THE SERVER LMAO"
-            };
         }
 
         log.info.log('debug', 'talk', {
